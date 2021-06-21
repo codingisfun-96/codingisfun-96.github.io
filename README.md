@@ -1,4 +1,4 @@
-## Welcome to my assignment solutions for Coursera course: 
+## Welcome to my coding assignment solutions for Coursera course: 
 HTML, CSS, and Javascript for Web Developers
 
 
