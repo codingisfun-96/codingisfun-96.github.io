@@ -1,6 +1,6 @@
 ## Welcome to my Github.io Page: 
 
-## Here's the list of my Coursera Web-Development Assignments</h1>
+<h1>Here's the list of my Coursera Web-Development Assignments</h1>
 
 # Module-2 Coding Assignment
 
