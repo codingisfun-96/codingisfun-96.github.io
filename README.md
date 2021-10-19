@@ -7,5 +7,5 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 
 # To see the output [CLICK HERE](https://codingisfun-96.github.io/Coursera-Assignments/Module-2/)
 
-# To see the page [CLICK HERE](https://codingisfun-96.github.io/)
+<!-- # To see the page [CLICK HERE](https://codingisfun-96.github.io/) -->
 
