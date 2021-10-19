@@ -1,7 +1,7 @@
 ## Welcome to my Github.io Page: 
 
 <br>
-<h2>Here's the list of my Coursera Web-Development Assignments</h2>
+<h2 align= center>Here's the list of my Coursera Web-Development Assignments</h2>
 
 # Module-2 Coding Assignment:-
 
