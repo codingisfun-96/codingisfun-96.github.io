@@ -5,7 +5,7 @@
 
 # Module-2 Coding Assignment-
 
-<u>Coursera course: HTML, CSS, and Javascript for Web Developers</u>
+_Coursera course: HTML, CSS, and Javascript for Web Developers_
 
 # To see the output [CLICK HERE](https://codingisfun-96.github.io/Coursera-Assignments/Module-2/)
 
